@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kraballa, I'm a B. Sc. in Computer Science
 - 👀 I’m interested in difficult computational problems (like SAT which I wrote my thesis on), game development and website development
-- 🌱 I’m currently learning Svelte and C
+- 🌱 currently writing my masters thesis on time-sensitive networking, configuring traffic shapers in converged networks
 
 <!---
 Kraballa/Kraballa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
